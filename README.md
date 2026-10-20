@@ -13,8 +13,8 @@ Aplikasi web interaktif Sistem Pendukung Keputusan (SPK) untuk pemilihan mobil d
 - **Responsive & Modern Design**: Mendukung tampilan desktop dan mobile.
 
 ## 🚀 Live Demo
-Website ini dapat diakses secara langsung melalui GitHub Pages:
-`https://<username>.github.io/<repository-name>/`
+Website ini sudah aktif dan dapat diakses langsung di:
+👉 **[https://khalifxxx2-spec.github.io/dasboard-ahp/](https://khalifxxx2-spec.github.io/dasboard-ahp/)**
 
 ## 🛠️ Teknologi
 - HTML5 & CSS3
